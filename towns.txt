@@ -1,0 +1,713 @@
+Bay Roberts
+Conception Bay South
+Portugal Cove-St. Philip's
+Torbay
+Paradise
+St. John's
+Mount Pearl
+Marystown
+Stephenville
+Deer Lake
+Corner Brook
+Gander
+Grand Falls-Windsor
+Clarenville
+Happy Valley-Goose Bay
+Labrador City
+Charlottetown
+Stratford
+Cornwall
+Summerside
+Barrington
+Argyle
+Yarmouth
+Yarmouth
+Clare
+Digby
+Queens
+Annapolis, Subd. A
+Lunenburg
+Bridgewater
+Chester
+Kings, Subd. A
+Kings, Subd. C
+Kentville
+Kings, Subd. B
+Kings, Subd. D
+West Hants
+East Hants
+Halifax
+Colchester, Subd. C
+Truro
+Colchester, Subd. B
+Cumberland, Subd. B
+Cumberland, Subd. C
+Amherst
+Pictou, Subd. A
+Pictou, Subd. B
+Pictou, Subd. C
+New Glasgow
+Antigonish, Subd. A
+Antigonish, Subd. B
+Inverness, Subd. A
+Cape Breton
+Saint John
+Lincoln
+Burton
+Oromocto
+Rothesay
+Quispamsis
+Riverview
+Beaubassin East
+Sackville
+Moncton
+Moncton
+Dieppe
+Shediac
+Miramichi
+Douglas
+Fredericton
+Woodstock
+Grand Falls
+Edmundston
+Campbellton
+Tracadie
+Bathurst
+Beresford
+Les Îles-de-la-Madeleine
+Chandler
+Gaspé
+Sainte-Anne-des-Monts
+Amqui
+Matane
+Mont-Joli
+Rimouski
+Rivière-du-Loup
+La Malbaie
+Baie-Saint-Paul
+Montmagny
+Saint-Henri
+Boischatel
+Sainte-Catherine-de-la-Jacques-Cartier
+Shannon
+Stoneham-et-Tewkesbury
+Lac-Beauport
+Sainte-Brigitte-de-Laval
+Québec
+L'Ancienne-Lorette
+Saint-Augustin-de-Desmaures
+Lévis
+Sainte-Marie
+Saint-Lambert-de-Lauzon
+Beauceville
+Saint-Georges
+Lac-Mégantic
+Thetford Mines
+Princeville
+Plessisville
+Saint-Apollinaire
+Pont-Rouge
+Donnacona
+Saint-Raymond
+Shawinigan
+Trois-Rivières
+Notre-Dame-du-Mont-Carmel
+Bécancour
+Victoriaville
+Asbestos
+Cookshire-Eaton
+Windsor
+Sherbrooke
+Coaticook
+Magog
+Lac-Brome
+Bromont
+Cowansville
+Farnham
+Granby
+Shefford
+Acton Vale
+Drummondville
+Nicolet
+Louiseville
+Lavaltrie
+Sorel-Tracy
+Saint-Pie
+Saint-Hyacinthe
+Saint-Césaire
+Marieville
+Richelieu
+Saint-Jean-sur-Richelieu
+Chambly
+Carignan
+Saint-Basile-le-Grand
+McMasterville
+Otterburn Park
+Mont-Saint-Hilaire
+Beloeil
+Brossard
+Saint-Lambert
+Boucherville
+Saint-Bruno-de-Montarville
+Longueuil
+Sainte-Julie
+Saint-Amable
+Varennes
+Verchères
+Contrecoeur
+Charlemagne
+Repentigny
+L'Assomption
+L'Épiphanie
+Saint-Paul
+Joliette
+Notre-Dame-des-Prairies
+Saint-Charles-Borromée
+Saint-Félix-de-Valois
+Rawdon
+Saint-Roch-de-l'Achigan
+Saint-Lin--Laurentides
+Saint-Calixte
+Sainte-Julienne
+Terrebonne
+Mascouche
+Laval
+Montréal
+Westmount
+Montréal-Ouest
+Côte-Saint-Luc
+Hampstead
+Mont-Royal
+Dorval
+Pointe-Claire
+Kirkland
+Beaconsfield
+Dollard-Des Ormeaux
+Saint-Philippe
+La Prairie
+Candiac
+Delson
+Sainte-Catherine
+Saint-Constant
+Mercier
+Châteauguay
+Saint-Rémi
+Sainte-Martine
+Beauharnois
+Salaberry-de-Valleyfield
+Saint-Zotique
+Les Coteaux
+Coteau-du-Lac
+Les Cèdres
+L'Île-Perrot
+Notre-Dame-de-l'Île-Perrot
+Pincourt
+Vaudreuil-Dorion
+Hudson
+Saint-Lazare
+Rigaud
+Saint-Eustache
+Deux-Montagnes
+Sainte-Marthe-sur-le-Lac
+Pointe-Calumet
+Saint-Joseph-du-Lac
+Boisbriand
+Sainte-Thérèse
+Blainville
+Rosemère
+Lorraine
+Bois-des-Filion
+Sainte-Anne-des-Plaines
+Mirabel
+Saint-Colomban
+Saint-Jérôme
+Sainte-Sophie
+Prévost
+Saint-Hippolyte
+Lachute
+Brownsburg-Chatham
+Sainte-Adèle
+Saint-Sauveur
+Sainte-Agathe-des-Monts
+Mont-Tremblant
+Mont-Laurier
+Gatineau
+L'Ange-Gardien
+Val-des-Monts
+Cantley
+Chelsea
+Pontiac
+La Pêche
+Rouyn-Noranda
+La Sarre
+Amos
+Val-d'Or
+La Tuque
+Roberval
+Saint-Félicien
+Dolbeau-Mistassini
+Alma
+Saguenay
+Saint-Honoré
+Baie-Comeau
+Sept-Îles
+Port-Cartier
+Chibougamau
+South Glengarry
+South Stormont
+Cornwall
+South Dundas
+North Dundas
+North Stormont
+North Glengarry
+Hawkesbury
+Champlain
+Alfred and Plantagenet
+The Nation
+Clarence-Rockland
+Russell
+Ottawa
+Edwardsburgh/Cardinal
+Augusta
+Elizabethtown-Kitley
+Brockville
+Leeds and the Thousand Islands
+Gananoque
+Rideau Lakes
+North Grenville
+Smiths Falls
+Drummond/North Elmsley
+Tay Valley
+Perth
+Beckwith
+Carleton Place
+Mississippi Mills
+Lanark Highlands
+Kingston
+South Frontenac
+Loyalist
+Greater Napanee
+Stone Mills
+Belleville
+Quinte West
+Tweed
+Prince Edward County
+Brighton
+Cramahe
+Hamilton
+Port Hope
+Cobourg
+Alnwick/Haldimand
+Trent Hills
+Otonabee-South Monaghan
+Cavan Monaghan
+Peterborough
+Selwyn
+Douro-Dummer
+Trent Lakes
+Kawartha Lakes
+Pickering
+Ajax
+Whitby
+Oshawa
+Clarington
+Scugog
+Uxbridge
+Brock
+Vaughan
+Markham
+Richmond Hill
+Whitchurch-Stouffville
+Aurora
+Newmarket
+King
+East Gwillimbury
+Georgina
+Toronto
+Mississauga
+Brampton
+Caledon
+Mono
+Orangeville
+Shelburne
+Puslinch
+Guelph
+Guelph/Eramosa
+Erin
+Centre Wellington
+Mapleton
+Minto
+Wellington North
+Oakville
+Burlington
+Milton
+Halton Hills
+Hamilton
+Fort Erie
+Port Colborne
+Wainfleet
+West Lincoln
+Pelham
+Welland
+Thorold
+Niagara Falls
+Niagara-on-the-Lake
+St. Catharines
+Lincoln
+Grimsby
+Haldimand County
+Norfolk County
+Brant
+Brantford
+North Dumfries
+Cambridge
+Kitchener
+Waterloo
+Wilmot
+Wellesley
+Woolwich
+Stratford
+St. Marys
+West Perth
+Perth East
+North Perth
+Norwich
+Tillsonburg
+South-West Oxford
+Ingersoll
+Zorra
+East Zorra-Tavistock
+Woodstock
+Blandford-Blenheim
+Bayham
+Malahide
+Aylmer
+Central Elgin
+St. Thomas
+Chatham-Kent
+Leamington
+Kingsville
+Essex
+Amherstburg
+LaSalle
+Windsor
+Tecumseh
+Lakeshore
+St. Clair
+Petrolia
+Sarnia
+Plympton-Wyoming
+Lambton Shores
+Southwest Middlesex
+Strathroy-Caradoc
+Thames Centre
+Middlesex Centre
+London
+North Middlesex
+South Huron
+Bluewater
+Central Huron
+Goderich
+Huron East
+Ashfield-Colborne-Wawanosh
+South Bruce
+Huron-Kinloss
+Kincardine
+Brockton
+Arran-Elderslie
+Saugeen Shores
+South Bruce Peninsula
+West Grey
+Southgate
+Grey Highlands
+Hanover
+Chatsworth
+The Blue Mountains
+Meaford
+Georgian Bluffs
+Owen Sound
+Adjala-Tosorontio
+Clearview
+New Tecumseth
+Springwater
+Bradford West Gwillimbury
+Severn
+Innisfil
+Ramara
+Essa
+Oro-Medonte
+Collingwood
+Barrie
+Orillia
+Wasaga Beach
+Tiny
+Tay
+Penetanguishene
+Midland
+Gravenhurst
+Bracebridge
+Huntsville
+Muskoka Lakes
+Minden Hills
+Dysart et al
+Arnprior
+McNab/Braeside
+Renfrew
+Whitewater Region
+Pembroke
+Laurentian Valley
+Petawawa
+North Bay
+West Nipissing
+Parry Sound
+Greater Sudbury
+Temiskaming Shores
+Kirkland Lake
+Timmins
+Cochrane
+Kapuskasing
+Hearst
+Elliot Lake
+Sault Ste. Marie
+Algoma, Unorganized, North Part
+Thunder Bay
+Oliver Paipoonge
+Thunder Bay, Unorganized
+Fort Frances
+Kenora
+Dryden
+Sioux Lookout
+Kenora, Unorganized
+Hanover
+Steinbach
+La Broquerie
+Ste. Anne
+Taché
+Ritchot
+Rhineland
+Stanley
+Winkler
+Morden
+Brandon
+Portage la Prairie
+Portage la Prairie
+Macdonald
+Winnipeg
+Springfield
+Brokenhead
+East St. Paul
+West St. Paul
+St. Andrews
+Selkirk
+St. Clements
+Rockwood
+Dauphin
+Gimli
+The Pas
+Thompson
+Estevan
+Weyburn
+Regina
+Moose Jaw
+Swift Current
+Yorkton
+Corman Park No. 344
+Saskatoon
+Warman
+Martensville
+Melfort
+Humboldt
+Prince Albert
+North Battleford
+Lloydminster (Part)
+Meadow Lake
+Cypress County
+Medicine Hat
+Redcliff
+Lethbridge County
+Lethbridge
+Coaldale
+Taber
+Taber
+Newell County
+Brooks
+Willow Creek No. 26
+Wheatland County
+Strathmore
+Drumheller
+Kneehill County
+Foothills No. 31
+High River
+Okotoks
+Rocky View County
+Calgary
+Chestermere
+Cochrane
+Airdrie
+Mountain View County
+Didsbury
+Olds
+Stettler County No. 6
+Stettler
+Wainwright
+Red Deer County
+Innisfail
+Red Deer
+Sylvan Lake
+Lacombe County
+Blackfalds
+Lacombe
+Ponoka County
+Ponoka
+Clearwater County
+Rocky Mountain House
+Camrose County
+Camrose
+Beaver County
+Vegreville
+Vermilion River County
+Lloydminster (Part)
+Wetaskiwin County No. 10
+Wetaskiwin
+Leduc County
+Beaumont
+Leduc
+Devon
+Drayton Valley
+Brazeau County
+Parkland County
+Stony Plain
+Spruce Grove
+Strathcona County
+Fort Saskatchewan
+Sturgeon County
+Edmonton
+St. Albert
+Morinville
+Cold Lake
+Bonnyville No. 87
+Bonnyville
+St. Paul County No. 19
+St. Paul
+Lac la Biche County
+Lac Ste. Anne County
+Barrhead County No. 11
+Westlock County
+Whitecourt
+Westlock
+Athabasca County
+Yellowhead County
+Hinton
+Edson
+Crowsnest Pass
+Canmore
+Banff
+Wood Buffalo
+Big Lakes County
+Slave Lake
+Mackenzie County
+Greenview No. 16
+Grande Prairie County No. 1
+Grande Prairie
+Peace River
+Fernie
+Cranbrook
+Kimberley
+East Kootenay C
+Creston
+Nelson
+Castlegar
+Trail
+Osoyoos
+Summerland
+Penticton
+Okanagan-Similkameen D
+Hope
+Chilliwack
+Kent
+Abbotsford
+Mission
+Langley
+Langley
+Surrey
+White Rock
+Delta
+Richmond
+Greater Vancouver A
+Vancouver
+Burnaby
+New Westminster
+Coquitlam
+Port Coquitlam
+Port Moody
+North Vancouver
+North Vancouver
+West Vancouver
+Pitt Meadows
+Maple Ridge
+North Saanich
+Sidney
+Central Saanich
+Saanich
+Saltspring Island
+Oak Bay
+Victoria
+Esquimalt
+Colwood
+Langford
+View Royal
+Sooke
+North Cowichan
+Ladysmith
+Cowichan Valley B
+Cowichan Valley C
+Nanaimo
+Nanaimo A
+Parksville
+Qualicum Beach
+Nanaimo E
+Nanaimo F
+Nanaimo G
+Port Alberni
+Campbell River
+Comox
+Courtenay
+Comox Valley A
+Comox Valley B (Lazo North)
+Comox Valley C (Puntledge - Black Creek)
+Powell River
+Sechelt
+Squamish
+Whistler
+Merritt
+Kamloops
+Kelowna
+Lake Country
+Peachland
+West Kelowna
+Tsinstikeptum  9
+Coldstream
+Vernon
+Spallumcheen
+Armstrong
+Revelstoke
+Salmon Arm
+Columbia-Shuswap C
+Williams Lake
+Quesnel
+Cariboo G
+Cariboo A
+Prince Rupert
+Kitimat
+Terrace
+Smithers
+Bulkley-Nechako A
+Prince George
+Dawson Creek
+Peace River D
+Fort St. John
+Peace River B
+Peace River C
+Whitehorse
+Yellowknife
+Iqaluit
