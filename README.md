@@ -1,5 +1,5 @@
 # Indeed_Scraper
-This is a Scrapy(Python) ased script to scrape job postings from ca.indeed.com which is an American worldwide employment website for job listings 
+This is a Scrapy(Python) based script to scrape job postings from ca.indeed.com which is an American worldwide employment website for job listings 
 
 # Requirements
 - Scrapy
@@ -12,4 +12,4 @@ This is a Scrapy(Python) ased script to scrape job postings from ca.indeed.com w
 
 Thanks & Regards
 M Talha
-@talhapythonist
+@talhapythoneer
